@@ -1745,16 +1745,13 @@ ol {
   margin-top: 0;
   left: 200px;
   margin-bottom: 10px;
-  top:400px;
-  padding-top:100px;
+
 }
 ul ul,
 ul ol,
 ol ul,
 ol ol {
   margin-bottom: 0;
-  top:400px;
-  padding-top:100px;
 }
 
 .list-unstyled {
